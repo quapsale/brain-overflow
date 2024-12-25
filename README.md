@@ -13,7 +13,7 @@ BrainOverflow aims to:
 As I'm still building, here's a glimpse of what you can expect (and what's currently in the works):
 - **[WIP] Introduction to Computer Programming**: Master the fundamentals of computer programming in C, C++, and Java.
 - **[WIP] Compilers**: Learn about compilers, and how to engineer a compiler using lex and yacc.
-- **[WIP] Machine Learning**: Explore the fundamentals of Machine Learning and Deep Learning, in Python.
+- **[WIP] Machine Learning**: Explore the fundamentals of Machine Learning and Deep Learning in Python.
 
 Additional topics might include:
 - **Probability Theory**
@@ -22,7 +22,7 @@ Additional topics might include:
 Stay tuned – I will add new topics and materials regularly!
 
 ## ⚠️ Disclaimer
-This repository is currently a work-in-progress. Expect incomplete materials, rough edges, and lots of updates as we build out the content.
+This repository is currently a work-in-progress. Expect incomplete materials, rough edges, and lots of updates as I build out the content.
 
 ## 📜 License
 All content here is open-source under the [MIT License](LICENSE). Feel free to use, adapt, and share – just give credit where it's due!
