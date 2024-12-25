@@ -18,6 +18,8 @@ As I'm still building, here's a glimpse of what you can expect (and what's curre
 Additional topics might include:
 - **Probability Theory**
 - **Time Series Analysis and Forecasting**
+- **Operating Systems**
+- **Computer Networks**
     
 Stay tuned – I will add new topics and materials regularly!
 
