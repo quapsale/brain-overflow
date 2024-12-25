@@ -11,7 +11,7 @@ BrainOverflow aims to:
 
 ## 🏗️ What's Here So Far
 As I'm still building, here's a glimpse of what you can expect (and what's currently in the works):
-- **[WIP] Introduction to Computer Programming**: Basics of computer programming, in C, C++ and Java.
+- **[WIP] Introduction to Computer Programming**: Master the fundamentals of computer programming in C, C++, and Java.
 - **[WIP] Compilers**: Learn about compilers, and how to engineer a compiler using lex and yacc.
 - **[WIP] Machine Learning**: Explore the fundamentals of Machine Learning and Deep Learning, in Python.
 
