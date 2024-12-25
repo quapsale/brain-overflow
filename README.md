@@ -10,17 +10,22 @@ BrainOverflow aims to:
 - Encourage hands-on learning through projects.
 
 ## 🏗️ What's Here So Far
-As I'm still building, here's a glimpse of what you can expect (and what's currently in the works):
-- **[WIP] Introduction to Computer Programming**: Master the fundamentals of computer programming in C, C++, and Java.
-- **[WIP] Compilers**: Learn about compilers, and how to engineer a compiler using lex and yacc.
-- **[WIP] Machine Learning**: Explore the fundamentals of Machine Learning and Deep Learning in Python.
+As I'm still building, here's a glimpse of what you might expect (and what's currently in the works):
 
-Additional topics might include:
-- **Probability Theory**
-- **Time Series Analysis and Forecasting**
-- **Operating Systems**
-- **Computer Networks**
-    
+### Core Programming:
+- **[WIP] Computer Programming I**: master the fundamentals of procedural programming in C.
+- **[WIP] Computer Programming II**: understand the fundamentals of object-oriented programming in C++ and Java.
+
+### Core Systems:
+- **[WIP] Compilers**: learn about compilers, and how to engineer a compiler using lex and yacc.
+- **[TBD] Operating Systems**: understand the fundamental concepts of operating systems, including processes, memory management, file systems.
+- **[TBD] Computer Networks**: study the principles of computer networking, including protocols, data transmission and security.
+
+### Core ML:
+- **[TBD] Machine Learning I**: explore the fundamentals of Machine Learning with applications in Python and R.
+- **[TBD] Machine Learning II**: delve into Deep Learning model design with PyTorch.
+- **[TBD] Time Series Analysis**: analyze and model time-dependent data using R.
+
 Stay tuned – I will add new topics and materials regularly!
 
 ## ⚠️ Disclaimer
