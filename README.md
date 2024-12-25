@@ -24,10 +24,6 @@ As I'm still building, here's a glimpse of what you might expect (and what's cur
 - **[TBD] Machine Learning I**: explore the fundamentals of Machine Learning with applications in Python and R.
 - **[TBD] Machine Learning II**: delve into Deep Learning model design with PyTorch.
 
-### Math:
-- **[TBD] Probability**: learn random variables, probability distributions and stochastic processes with applications in R.
-- **[TBD] Time Series Analysis**: analyze and model time-dependent data using R.
-
 Stay tuned – I will add new topics and materials regularly!
 
 ## ⚠️ Disclaimer
