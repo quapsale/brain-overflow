@@ -14,7 +14,7 @@ As I'm still building, here's a glimpse of what you might expect (and what's cur
 
 ### Programming:
 - **[WIP] Computer Programming I**: master the fundamentals of procedural programming in C.
-- **[WIP] Computer Programming II**: understand the fundamentals of object-oriented programming in C++ and Java.
+- **[WIP] Computer Programming II**: understand the fundamentals of object-oriented programming in C++.
 
 ### Systems:
 - **[WIP] Compilers**: learn about compilers, and how to engineer a compiler using lex and yacc.
